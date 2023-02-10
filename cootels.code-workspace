@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\cootels"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Новая папка"
+	}
+}
